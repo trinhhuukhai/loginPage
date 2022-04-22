@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "638137667450",
+    "project_id": "auth-de11d",
+    "storage_bucket": "auth-de11d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638137667450:android:a875779567b584133d90c3",
+        "android_client_info": {
+          "package_name": "com.example.loginpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638137667450-noi8b638il5lhmniec67i2sltvkge40t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk8HfnXv7x8bQJed6NwNSyFJKmJDOJbi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638137667450-noi8b638il5lhmniec67i2sltvkge40t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
